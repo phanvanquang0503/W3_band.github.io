@@ -1,0 +1,51 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 62.5%;
+  /* 1rem = 10px */
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: uppercase;
+}
+#main {
+}
+.clear {
+  clear: both;
+}
+.row {
+  margin-left: -0.8rem;
+  margin-right: -0.8rem;
+}
+.col {
+  float: left;
+  padding-left: 0.8rem;
+  padding-right: 0.8rem;
+}
+.col-second {
+  width: 50%;
+}
+.col-third {
+  width: 33.33333%;
+}
+.col-forth {
+  width: 25%;
+}
+.size-width-text {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+.have-fixed {
+  top: 0;
+  left: 0;
+  right: 0;
+}

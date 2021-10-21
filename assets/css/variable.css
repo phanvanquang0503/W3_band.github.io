@@ -1,0 +1,17 @@
+/* 
+1. Từ ngoài vào trong 
+2. Từ trên xuống dưới 
+3. Từ tổng quan tới chi tiết
+-----------------------------
+1. Vị trí 
+2. Kích thước
+3. Màu sắc 
+4. Kiểu dáng( kiểu chữ, hình tròn, hình vuông...)
+*/
+:root {
+  --color-textall: #fff;
+  --color-text-important: #000;
+  --color-backroudall: #000;
+  --text-color-black: #000;
+  --color-modal: #009688;
+}
