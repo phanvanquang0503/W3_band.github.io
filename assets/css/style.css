@@ -374,6 +374,7 @@ input[type="text"]:focus {
 }
 /* contact */
 .contact_section {
+  margin-bottom: 4rem;
   padding: 3.2rem 0rem;
 }
 .contact_info {
@@ -381,4 +382,40 @@ input[type="text"]:focus {
 }
 .contact_form {
   float: left;
+  position: relative;
+}
+.icon {
+  width: 3rem;
+}
+.contact__input {
+  float: left;
+  display: block;
+  width: 100%;
+}
+.send__button {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  display: block;
+}
+/* footer */
+
+.after__contact--img img {
+  width: 100%;
+  position: relative;
+}
+#footer {
+  /* Chiều cao của header  */
+  padding-top: 1.6rem;
+  height: 15rem;
+  text-align: center;
+  font-size: 2rem;
+  background-color: #757575;
+  /* position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0; */
+}
+.footer__infor a {
+  text-decoration: none;
 }
