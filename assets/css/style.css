@@ -372,3 +372,13 @@ input[type="text"]:focus {
     transform: translateY(0rem);
   }
 }
+/* contact */
+.contact_section {
+  padding: 3.2rem 0rem;
+}
+.contact_info {
+  float: left;
+}
+.contact_form {
+  float: left;
+}
